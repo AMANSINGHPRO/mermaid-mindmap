@@ -1,0 +1,99 @@
+mindmap
+  root((oreilly))
+    Business
+        Business/PT
+        Business Strategy
+        Digital Economy
+        Economics
+        Finance and Accounting
+        Leadership and Management
+        Operations
+        Project and Product Management
+        Publishing
+        Soft Skills
+
+    Data
+        DE
+        Data Governance
+        DS
+        Enterprise Data Strategy
+        ML & AI
+            ML
+                DL
+                    Keras
+                    PyTorch
+                    TF
+        Spreadsheets
+
+    IT Operations
+        Cloud Computing
+            Cloud Deployment
+            Cloud Migration
+            Cloud Services
+        Cloud Platforms
+            AWS
+                Certified Big Data Exam
+                Lambda
+                EC2
+                Elastic Beanstalk
+                Lex
+                S3
+            Cloud Foundry
+            GCP
+            Heroku
+            IBM Cloud
+            Azure
+            OpenStack
+            Oracle Cloud
+        Cloud Security
+        DevOps
+            Configuration Management
+                Ansible
+                Jenkins
+            CI
+            CD
+            IaC
+            SRE
+        Virtualization
+            Containers
+                Container Platforms
+                    Docker
+    Math, Science Engineering
+    Software Development
+        Coding Practices
+        CS
+        Graphics Programming
+        Open Source Software
+        OS
+        Programming Languages
+        QA/Testing
+        Software Architecture
+            API
+                GraphQL
+                RESTful API
+                Web APIs
+                gRPC
+            Client Server
+            Event Driven Architecture
+            Object Oriented Architecture
+            Service Oriented Architecture
+            Domain Driven Design
+            Edge Computing
+            Enterprise Architecture
+            Microservices
+            Serverless Architecture
+
+        Software Collaboration
+            Version Control
+                Git
+                    GitHub
+                    GitLab
+        Text Editors & IDE
+    Web & Mobile
+        Web Dev
+            Python Web Frameworks
+                Django
+                Flask
+                Kivy
+                FastAPI
+    
